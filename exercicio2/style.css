@@ -1,0 +1,19 @@
+header{
+    border: 1px solid black;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+    background-color: aquamarine;
+}
+
+main{
+    height: 2000px;
+    background-color: rgb(12, 240, 50);
+}
+
+
+footer{
+    border: 1px solid black;
+    padding: 20px;
+    background-color: aqua;
+}
