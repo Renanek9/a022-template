@@ -1,0 +1,25 @@
+button:hover{
+    color: white;
+    background-color: red;
+}
+
+button:active{
+    color: red;
+    background-color: pink;
+}
+
+button{
+    padding: 20px;
+}
+
+body{
+    text-align: center;
+    /* Vai centralizar elementos INLINE, texto, etc.. Tem que ser no elemento PAI */
+}
+
+div{
+    background-color: aquamarine;
+    width: 480px;     
+    margin: auto; 
+    /* para objetos BLOCK centralizarem com Magin Auto eu preciso ter uma largura definida */
+}
